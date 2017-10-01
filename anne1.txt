@@ -1,5 +1,9 @@
 Bonjour je suis alex
+<<<<<<< HEAD
 
 
 
 je suis anne
+=======
+j'ai ajouté une deuxieme ligne 1
+>>>>>>> ab2a44f5c2c011c3d3df3436e9c6626e06ef0a1f
