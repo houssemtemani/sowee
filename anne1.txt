@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 Bonjour je suis alex bou3asba
 j'ai ajouté une deuxieme ligne 1
+=======
+Bonjour je suis alex
+
+
+
+
+je suis anne 3assba
+
+>>>>>>> 5560c1750eb616119d7740b1adfa125ff6136b93
